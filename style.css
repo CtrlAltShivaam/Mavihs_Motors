@@ -95,14 +95,16 @@ html {
 .marketting{
     text-align: center;
 }
+.vintage-text{
+    padding-top: 50px;
+}
 .vintage{
     display: block;
     color: white;
-    background-image: url(Images/vintage-car.jpg);
+    background-image: linear-gradient(to right, black, rgba(255, 255, 255, 0)),url(Images/vintage-car.jpg);
     background-size: contain;
     background-position: center right;
-    transition: ;
-    height:300px;
+    height:350px;
     width:auto;
     text-align: left; 
     padding: 0 60px;
@@ -124,6 +126,14 @@ html {
     margin-top: 20%;
     height: 70vh;
     margin-left: -50px;
+}
+
+.counter-section {
+    background-color: #30324e;
+    margin: 30px;
+    height: 30vh;
+    font-size: 40px;
+    color: Black;
 }
 .footer {
     background-image: url(https://fishbar.files.wordpress.com/2010/03/footer3.png);
