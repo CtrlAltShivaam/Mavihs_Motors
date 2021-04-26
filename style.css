@@ -96,7 +96,7 @@ html {
     text-align: center;
 }
 .vintage-text{
-    padding-top: 50px;
+    padding-top: 70px;
 }
 .vintage{
     display: block;
@@ -104,7 +104,7 @@ html {
     background-image: linear-gradient(to right, black, rgba(255, 255, 255, 0)),url(Images/vintage-car.jpg);
     background-size: contain;
     background-position: center right;
-    height:350px;
+    height:400px;
     width:auto;
     text-align: left; 
     padding: 0 60px;
@@ -112,6 +112,16 @@ html {
     font-family: barlow,sans-serif;
 }
 
+
+.customs{
+    background-color: rgba(134, 204, 29, 0.699);
+    height: 400px;
+    font-family: barlow,sans-serif;
+}
+#customss{
+    padding-top: 4px;
+    font-family: 'Cedarville Cursive', cursive;
+}
 .Gallery{
     border: 1px solid black;
     border-radius: 4px;
@@ -129,11 +139,10 @@ html {
 }
 
 .counter-section {
-    background-color: #30324e;
     margin: 30px;
     height: 30vh;
     font-size: 40px;
-    color: Black;
+    color: rgba(34, 33, 33, 0.795);
 }
 .footer {
     background-image: url(https://fishbar.files.wordpress.com/2010/03/footer3.png);
