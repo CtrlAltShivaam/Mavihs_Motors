@@ -123,9 +123,13 @@ html {
     font-family: 'Cedarville Cursive', cursive;
 }
 .Gallery{
+    text-align: center;
     border: 1px solid black;
     border-radius: 4px;
     margin:auto;
+}
+.Gallery:hover img{
+    opacity: 0.7;
 }
 #Gallery_caption{
     text-align: center;
@@ -140,7 +144,6 @@ html {
 
 .counter-section {
     margin: 30px;
-    height: 30vh;
     font-size: 40px;
     color: rgba(34, 33, 33, 0.795);
 }
@@ -148,7 +151,7 @@ html {
     background-image: url(https://fishbar.files.wordpress.com/2010/03/footer3.png);
     background-size: cover;
     background-attachment: fixed;
-    height: 23vh;
+    height: 230px;
 }
 
 #a-footer {
