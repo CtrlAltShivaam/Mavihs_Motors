@@ -74,6 +74,9 @@ html {
     margin-bottom: -50px;
 
 }
+#lamboimg1{
+    width: 400px; padding: 20px;
+}
 #aboutus_header{
     width: 200px;
     height: 70px;
@@ -91,6 +94,9 @@ html {
 #cybertruckimg{
     max-width: 400px;
     max-height: 70px;
+}
+#cybertruckimg1{
+    width: 400px; padding: 20px;
 }
 .marketting{
     text-align: center;
@@ -121,6 +127,9 @@ html {
 #customss{
     padding-top: 4px;
     font-family: 'Cedarville Cursive', cursive;
+}
+#Customs1{
+    width: 450px; padding: 15px;
 }
 .Gallery{
     text-align: center;

@@ -33,7 +33,7 @@
     }
     .lambo{
         background-color: #fcf340e8;
-        height: 70vh;
+        height: 60vh;
         font-family: barlow,sans-serif;
     }
     #lamboimg{
@@ -41,6 +41,10 @@
         margin-top: -50px;
         margin-bottom: -50px;
     
+    }#lamboimg1{
+        transform: scale(1.2);
+        width:300px;
+        padding: 5px;
     }
     #aboutus_header{
         width: 200px;
@@ -48,17 +52,23 @@
     }
     .about_us{
         background-color: #feffff;
-        height: 75vh;
+        height: 70vh;
         font-family: barlow,sans-serif;
     }
     .cybertruck{
         background-color: #ff005c;
-        height: 70vh;
+        height: 65vh;
         font-family: barlow,sans-serif;
     }
     #cybertruckimg{
         max-width: 400px;
         max-height: 70px;
+    }
+    #cybertruckimg1{
+        transform: scale(1.2);
+        width:300px;
+        padding: 5px;
+        margin-top: 15px;
     }
     .marketting{
         text-align: center;
@@ -66,14 +76,14 @@
     .vintage-text{
         padding-top: 20px;}
     .vintage-text1{
-        padding-top: 190px;}
+        padding-top: 10px;}
     .vintage{
         display: block;
         color: white;
         background-image: linear-gradient(to right, black, rgba(255, 255, 255, 0)),url(Images/vintage-car.jpg);
         background-size: contain;
         background-position: center right;
-        height:400px;
+        height:460px;
         width:auto;
         text-align: center; 
         padding: 0 60px;
@@ -90,6 +100,9 @@
     #customss{
         padding-top: 6px;
         font-family: 'Cedarville Cursive', cursive;
+    }
+    #Customs1{
+        width: 370px; padding: 15px;
     }
     .Gallery{
         text-align: center;
