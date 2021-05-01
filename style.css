@@ -64,8 +64,8 @@ html {
 }
 .lambo{
     background-color: #fcf340;
-    height: 80vh;
     font-family: barlow,sans-serif;
+    height: 522px;
 }
 #lamboimg{
     width: 250px;
@@ -83,13 +83,13 @@ html {
 }
 .about_us{
     background-color: #feffff;
-    height: 80vh;
     font-family: barlow,sans-serif;
+    height: 522px;
 }
 .cybertruck{
     background-color: #ff005c;
-    height: 80vh;
     font-family: barlow,sans-serif;
+    height: 522px;
 }
 #cybertruckimg{
     max-width: 400px;
@@ -103,6 +103,9 @@ html {
 }
 .vintage-text{
     padding-top: 70px;
+}
+.vintage-text1{
+    padding-top: 30px;
 }
 .vintage{
     display: block;

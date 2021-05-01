@@ -1,4 +1,150 @@
-@media (max-width: 576px) {
+@media (max-width: 577.98px) {
+    .header{
+        background-image: url(Images/Homepage2.jpg);
+        background-size: cover;
+        background-attachment: inherit;
+        height: 99vh;
+    }
+    #home{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .header1{
+        margin-top: 390px;
+        color: white;
+        font-size: 50px;
+    }
+    .header2{
+        color: white;
+        font-size: 40px;
+        font-family: barlow,sans-serif;
+    }
+    .header3{
+        margin-top: 25px;
+        color: white;
+        font-size: 20px;
+    }
+    #btn1{
+        font-weight: 500;
+        color: #000;
+        border-radius: 0px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .lambo{
+        background-color: #fcf340e8;
+        font-family: barlow,sans-serif;
+        height: 435px;
+    }
+    #lamboimg{
+        width: 350px;
+        margin-top: -50px;
+        margin-bottom: -50px;
+    
+    }#lamboimg1{
+        transform: scale(1.2);
+        width:300px;
+        padding: 5px;
+    }
+    #aboutus_header{
+        width: 200px;
+        height: 70px;
+    }
+    .about_us{
+        background-color: #feffff;
+        font-family: barlow,sans-serif;
+    }
+    .cybertruck{
+        background-color: #ff005c;
+        font-family: barlow,sans-serif;
+        height: 465px;
+    }
+    #cybertruckimg{
+        max-width: 400px;
+        max-height: 70px;
+    }
+    #cybertruckimg1{
+        transform: scale(1.2);
+        width:300px;
+        padding: 5px;
+        margin-top: 15px;
+    }
+    .marketting{
+        text-align: center;
+    }
+    .vintage-text{
+        padding-top: 20px;}
+    .vintage-text1{
+        padding-top: 120px;}
+    .vintage{
+        display: block;
+        color: white;
+        background-image: linear-gradient(to right, black, rgba(255, 255, 255, 0)),url(Images/vintage-car.jpg);
+        background-size: contain;
+        background-position: center right;
+        height:460px;
+        width:auto;
+        text-align: center; 
+        padding: 0 60px;
+        box-sizing: border-box;
+        font-family: barlow,sans-serif;
+    }
+    
+    
+    .customs{
+        background-color: rgba(134, 204, 29, 0.699);
+        height: 390px;
+        font-family: barlow,sans-serif;
+    }
+    #customss{
+        padding-top: 6px;
+        font-family: 'Cedarville Cursive', cursive;
+    }
+    #Customs1{
+        width: 370px; padding: 15px;
+    }
+    .Gallery{
+        text-align: center;
+        border: 1px solid black;
+        border-radius: 4px;
+        margin:auto;
+    }
+    #Gallery_caption{
+        text-align: center;
+    }
+    #chimp{
+        display: none;
+    }
+    .contact{
+        text-align: center;
+    }
+    
+    #counter {
+        font-size: 40px;
+        color: rgba(34, 33, 33, 0.795);
+    }
+    .footer {
+        background-image: url(https://fishbar.files.wordpress.com/2010/03/footer3.png);
+        background-size: cover;
+    }
+    
+    #a-footer {
+        font-size: 35px;
+        margin-right: 20px;
+        margin-top: 25px;
+        margin-bottom: 10px;
+        color: #464866;
+    }
+    
+    .footer-span {
+        text-align: center;
+        font-size: small;
+        color: white;
+    }
+    
+}
+
+@media (min-width:577.99px) and (max-width: 767.98px) { 
     .header{
         background-image: url(Images/Homepage2.jpg);
         background-size: cover;
