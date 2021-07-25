@@ -1,6 +1,6 @@
 $(window).scroll(function() {
     var scroll = $(window).scrollTop();
-    if (scroll >= 150)
+    if (scroll >= 50)
         document.querySelector(".navbar").style.backgroundColor= "#464866"
     else
         document.querySelector(".navbar").style.backgroundColor= "#46486634"
